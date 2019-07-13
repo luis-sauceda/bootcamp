@@ -1,0 +1,676 @@
+,city,latitud,longitud,temperature,wind_speed,cloudiness,humidity
+0,east london,-33.02,27.91,285.15,3.1,0,main.humidity
+1,noumea,-22.28,166.46,298.15,1.5,75,main.humidity
+2,daura,13.04,8.32,300.299,6.32,76,main.humidity
+3,georgetown,6.8,-58.16,297.15,2.1,20,main.humidity
+4,busselton,-33.64,115.35,290.37,4.41,98,main.humidity
+5,hermanus,-34.42,19.24,284.82,3.37,0,main.humidity
+6,samarai,-10.62,150.67,298.339,4.74,97,main.humidity
+7,khatanga,71.98,102.47,285.329,2.83,100,main.humidity
+8,rikitea,-23.12,-134.97,296.119,7.64,0,main.humidity
+9,albany,42.65,-73.75,297.15,1.5,1,main.humidity
+10,arroio grande,-32.24,-53.09,285.939,1.57,59,main.humidity
+11,cape town,-33.93,18.42,284.82,2.1,0,main.humidity
+12,ilulissat,69.22,-51.1,278.15,1.5,17,main.humidity
+13,hasaki,35.73,140.83,296.15,3.1,75,main.humidity
+14,bend,44.06,-121.32,298.71,4.6,1,main.humidity
+15,saldanha,41.42,-6.55,293.269,1.1,0,main.humidity
+16,puerto escondido,15.86,-97.07,301.15,1.39,40,main.humidity
+17,raton,36.9,-104.44,297.15,2.1,90,main.humidity
+18,upernavik,72.79,-56.15,278.819,2.83,38,main.humidity
+19,fort thomas,39.08,-84.45,301.15,2.6,90,main.humidity
+20,dikson,73.51,80.55,272.939,4.95,100,main.humidity
+21,jamestown,-33.21,138.6,286.299,9.01,92,main.humidity
+22,chuy,-33.69,-53.46,284.569,2.42,52,main.humidity
+23,canatlan,24.52,-104.78,295.15,3.1,75,main.humidity
+24,vila franca do campo,37.72,-25.43,293.15,2.19,20,main.humidity
+25,tasiilaq,65.61,-37.64,279.15,2.1,79,main.humidity
+26,severo-kurilsk,50.68,156.12,279.299,9.26,100,main.humidity
+27,san patricio,-26.98,-56.83,292.879,3.62,85,main.humidity
+28,arraial do cabo,-22.97,-42.02,291.049,7.55,0,main.humidity
+29,kapaa,22.08,-159.32,302.15,5.7,20,main.humidity
+30,torbay,47.66,-52.73,282.04,2.6,90,main.humidity
+31,laguna,16.17,-88.94,299.15,1.42,20,main.humidity
+32,makakilo city,21.35,-158.09,305.15,6.2,1,main.humidity
+33,kalmunai,7.42,81.82,302.169,1.71,100,main.humidity
+34,mao,19.55,-71.08,301.15,6.2,40,main.humidity
+35,punta arenas,-53.16,-70.91,275.93,1.5,90,main.humidity
+36,qaanaaq,77.48,-69.36,278.599,0.23,90,main.humidity
+37,mataura,-46.19,168.86,284.82,1.34,52,main.humidity
+38,kodiak,39.95,-94.76,298.15,3.1,1,main.humidity
+39,lebu,8.96,38.73,285.15,2.1,40,main.humidity
+40,kavieng,-2.57,150.8,301.599,6.61,78,main.humidity
+41,batagay-alyta,67.8,130.41,294.719,3.43,67,main.humidity
+42,yairipok,24.67,94.07,297.15,3.6,75,main.humidity
+43,namibe,-15.19,12.15,292.159,3.64,30,main.humidity
+44,rio tercero,-32.17,-64.11,282.389,1.21,100,main.humidity
+45,ushuaia,-54.81,-68.31,276.15,1.26,40,main.humidity
+46,mwene-ditu,-7.01,23.45,293.499,0.58,53,main.humidity
+47,vanimo,-2.67,141.3,300.599,2.9,84,main.humidity
+48,port keats,-14.25,129.55,301.719,6.12,97,main.humidity
+49,basco,40.33,-91.2,299.15,2.1,40,main.humidity
+50,mirnyy,56.57,36.46,282.899,2.64,68,main.humidity
+51,berlevag,70.86,29.09,279.029,4.91,77,main.humidity
+52,port hardy,50.7,-127.42,290.15,1.5,75,main.humidity
+53,padang,-0.92,100.36,300.959,1.23,0,main.humidity
+54,victoria,5.28,115.24,305.15,1.5,75,main.humidity
+55,butaritari,3.07,172.79,302.899,2.07,91,main.humidity
+56,atuona,-9.8,-139.03,300.169,7.5,3,main.humidity
+57,san andres,13.32,122.68,306.419,0.67,28,main.humidity
+58,pevek,69.7,170.27,284.799,5.87,0,main.humidity
+59,provideniya,64.42,-173.23,293.15,2.0,0,main.humidity
+60,tars,57.38,10.12,279.82,3.34,14,main.humidity
+61,arawa,-3.93,119.75,302.029,7.07,20,main.humidity
+62,casimcea,44.71,28.38,287.15,2.6,0,main.humidity
+63,gondanglegi,-7.75,112.01,300.019,3.6,18,main.humidity
+64,pasni,25.26,63.48,302.289,1.71,69,main.humidity
+65,ancud,-41.87,-73.83,280.15,5.7,75,main.humidity
+66,marsh harbour,26.54,-77.06,301.959,6.13,26,main.humidity
+67,tecoanapa,16.99,-99.26,298.15,3.6,90,main.humidity
+68,aitape,-3.15,142.36,300.099,1.41,100,main.humidity
+69,urucui,-7.23,-44.56,296.449,2.77,0,main.humidity
+70,iqaluit,63.75,-68.52,283.15,1.5,75,main.humidity
+71,castro,-42.48,-73.76,280.15,5.7,75,main.humidity
+72,saint anthony,43.97,-111.68,301.15,3.6,1,main.humidity
+73,ponta do sol,-20.63,-46.0,284.999,1.4,0,main.humidity
+74,vaini,15.34,74.49,296.15,4.1,75,main.humidity
+75,ornskoldsvik,63.29,18.72,283.15,2.6,100,main.humidity
+76,nelson bay,-32.72,152.14,293.71,12.9,0,main.humidity
+77,luderitz,-26.65,15.16,288.15,0.5,0,main.humidity
+78,verkh-usugli,52.7,115.17,299.819,2.31,84,main.humidity
+79,pisco,-13.71,-76.2,291.15,2.1,90,main.humidity
+80,bredasdorp,-34.53,20.04,281.15,2.1,0,main.humidity
+81,port hedland,-20.31,118.58,300.15,8.7,100,main.humidity
+82,hobart,-42.88,147.33,285.37,6.2,40,main.humidity
+83,mar del plata,-46.43,-67.52,278.619,2.09,45,main.humidity
+84,grand-santi,4.27,-54.38,294.769,0.55,0,main.humidity
+85,avarua,-21.21,-159.78,298.15,5.7,73,main.humidity
+86,antofagasta,-23.65,-70.4,286.15,3.1,90,main.humidity
+87,tiznit,29.7,-9.73,292.189,5.08,0,main.humidity
+88,margate,-43.03,147.26,285.37,6.2,40,main.humidity
+89,sur,22.57,59.53,304.099,4.32,92,main.humidity
+90,olinda,-37.84,145.39,287.04,7.7,75,main.humidity
+91,longyearbyen,78.22,15.63,280.15,2.1,75,main.humidity
+92,sao joao da barra,-21.64,-41.05,287.719,0.62,0,main.humidity
+93,bluff,-23.58,149.07,295.919,3.18,2,main.humidity
+94,kahului,20.89,-156.47,304.15,10.8,40,main.humidity
+95,nikolskoye,59.7,30.79,284.15,3.0,40,main.humidity
+96,caravelas,-17.73,-39.27,294.389,4.16,99,main.humidity
+97,carnarvon,-30.97,22.13,283.669,4.28,0,main.humidity
+98,ahipara,-35.17,173.16,292.04,3.73,0,main.humidity
+99,port lincoln,-34.72,135.86,288.139,12.37,38,main.humidity
+100,yellowknife,62.45,-114.38,286.15,3.1,75,main.humidity
+101,burgersdorp,-30.99,26.32,279.089,1.58,0,main.humidity
+102,batagay,67.65,134.64,300.479,3.18,67,main.humidity
+103,toora-khem,52.47,96.11,286.429,1.75,100,main.humidity
+104,camacha,33.08,-16.33,294.15,7.2,75,main.humidity
+105,airai,-8.93,125.41,301.209,1.42,82,main.humidity
+106,carbondale,38.82,-95.69,298.15,2.6,1,main.humidity
+107,korgen,66.08,13.83,284.26,0.51,9,main.humidity
+108,hilo,19.71,-155.08,301.15,2.6,90,main.humidity
+109,ostrovnoy,68.05,39.51,277.309,9.98,100,main.humidity
+110,kaitangata,-46.28,169.85,285.93,2.68,62,main.humidity
+111,ribeira grande,38.52,-28.7,294.269,2.88,0,main.humidity
+112,hofn,64.25,-15.21,277.039,0.93,100,main.humidity
+113,saskylakh,71.97,114.09,289.189,2.94,73,main.humidity
+114,buraydah,26.33,43.97,298.15,2.6,0,main.humidity
+115,portland,43.66,-70.25,291.48,2.1,1,main.humidity
+116,lompoc,34.64,-120.46,293.71,4.1,90,main.humidity
+117,eyemouth,55.87,-2.09,288.15,0.5,100,main.humidity
+118,saint-pierre,48.95,4.24,289.15,1.3,0,main.humidity
+119,kirakira,-10.46,161.92,300.819,1.95,100,main.humidity
+120,nanortalik,60.14,-45.24,276.799,0.77,0,main.humidity
+121,flinders,-34.58,150.85,292.04,9.8,0,main.humidity
+122,aykhal,65.95,111.51,299.15,4.0,0,main.humidity
+123,luang prabang,19.89,102.14,301.15,1.76,75,main.humidity
+124,bethel,60.79,-161.76,296.15,4.6,20,main.humidity
+125,tuktoyaktuk,69.44,-133.03,277.15,7.7,90,main.humidity
+126,madison,43.07,-89.38,297.04,3.82,1,main.humidity
+127,harbour breton,47.48,-55.8,283.299,4.79,92,main.humidity
+128,ruwi,23.6,58.55,304.15,2.1,20,main.humidity
+129,coquimbo,-29.95,-71.34,280.37,4.09,100,main.humidity
+130,puerto ayora,-0.74,-90.35,294.26,3.45,67,main.humidity
+131,katsuura,33.93,134.5,300.15,6.7,90,main.humidity
+132,clyde river,70.47,-68.59,283.15,4.1,1,main.humidity
+133,neftegorsk,52.8,51.16,288.859,4.01,2,main.humidity
+134,boguchany,58.38,97.46,294.749,3.16,100,main.humidity
+135,kabwe,-14.44,28.44,281.599,2.02,6,main.humidity
+136,shizunai,42.33,142.37,287.369,4.97,100,main.humidity
+137,bela,26.23,66.31,299.269,4.06,81,main.humidity
+138,changji,32.07,116.17,302.099,1.23,2,main.humidity
+139,klaksvik,62.23,-6.59,284.15,1.5,100,main.humidity
+140,fortuna,40.6,-124.16,292.04,4.1,90,main.humidity
+141,sitka,37.17,-99.65,298.15,4.27,7,main.humidity
+142,souillac,45.6,-0.6,291.48,2.46,0,main.humidity
+143,los llanos de aridane,28.66,-17.92,294.15,2.6,40,main.humidity
+144,aklavik,68.22,-135.01,281.15,6.2,90,main.humidity
+145,barrow,-38.31,-60.23,281.839,1.65,100,main.humidity
+146,faanui,-16.48,-151.75,298.449,1.17,24,main.humidity
+147,marawi,8.0,124.29,301.48,3.13,24,main.humidity
+148,enying,46.93,18.25,286.779,2.97,2,main.humidity
+149,hithadhoo,-0.6,73.08,302.129,4.9,100,main.humidity
+150,kushima,31.5,131.29,303.15,9.3,75,main.humidity
+151,bodri,23.17,81.43,297.079,5.49,100,main.humidity
+152,yulara,-25.24,130.99,291.15,4.6,68,main.humidity
+153,puerto quijarro,-19.0,-57.72,293.849,1.32,0,main.humidity
+154,lerwick,60.15,-1.15,285.15,5.1,100,main.humidity
+155,sola,-3.17,33.8,290.829,2.57,33,main.humidity
+156,christchurch,-43.53,172.64,288.71,4.6,89,main.humidity
+157,riyadh,24.63,46.72,300.15,2.1,0,main.humidity
+158,nioki,-2.72,17.69,296.489,2.76,100,main.humidity
+159,jasdan,22.04,71.2,304.82,9.66,42,main.humidity
+160,athabasca,54.72,-113.29,286.549,2.08,100,main.humidity
+161,alofi,-19.06,-169.92,301.15,5.7,75,main.humidity
+162,anadyr,64.73,177.51,295.15,6.0,0,main.humidity
+163,tongren,27.72,109.18,299.069,2.33,98,main.humidity
+164,nouakchott,18.08,-15.98,297.15,4.1,94,main.humidity
+165,yerbogachen,61.28,108.01,299.599,4.08,92,main.humidity
+166,evanston,42.04,-87.69,302.15,6.2,20,main.humidity
+167,prieta,15.58,-86.18,294.989,0.3,96,main.humidity
+168,birao,10.3,22.78,296.669,2.89,100,main.humidity
+169,nome,30.04,-94.42,303.71,1.02,1,main.humidity
+170,kununurra,-15.77,128.74,301.15,6.2,10,main.humidity
+171,te anau,-45.41,167.72,282.359,0.85,1,main.humidity
+172,sistranda,63.73,8.83,283.71,5.35,75,main.humidity
+173,liepaja,56.52,21.02,282.15,3.65,100,main.humidity
+174,srednekolymsk,67.46,153.71,302.799,3.92,24,main.humidity
+175,bathsheba,13.22,-59.52,301.15,7.2,75,main.humidity
+176,puerto madero,-34.61,-58.36,285.15,2.6,0,main.humidity
+177,acapulco,16.86,-99.88,298.15,3.6,90,main.humidity
+178,ambovombe,-25.18,46.09,293.969,5.87,51,main.humidity
+179,nantucket,41.28,-70.1,295.37,2.1,1,main.humidity
+180,port alfred,-33.59,26.89,284.82,2.07,0,main.humidity
+181,port elizabeth,39.31,-74.98,297.59,1.5,1,main.humidity
+182,cherskiy,68.75,161.3,302.809,3.61,23,main.humidity
+183,amapa,15.09,-87.97,301.15,3.1,75,main.humidity
+184,armidale,-30.51,151.67,285.93,5.81,0,main.humidity
+185,hay river,60.82,-115.79,292.15,2.6,75,main.humidity
+186,butembo,0.12,29.29,288.849,1.02,100,main.humidity
+187,saint-philippe,45.36,-73.48,298.15,2.6,1,main.humidity
+188,fuerte olimpo,-21.04,-57.87,292.939,2.33,0,main.humidity
+189,new norfolk,-42.78,147.06,285.37,6.2,40,main.humidity
+190,vila velha,-3.71,-38.6,303.15,5.7,75,main.humidity
+191,darab,28.75,54.55,299.159,1.33,0,main.humidity
+192,tigil,57.8,158.67,291.969,5.64,33,main.humidity
+193,cidreira,-30.17,-50.22,288.069,1.68,100,main.humidity
+194,gisborne,-38.66,178.02,290.93,4.02,0,main.humidity
+195,lorengau,-2.02,147.27,300.049,5.81,100,main.humidity
+196,date,42.53,140.93,294.82,6.2,75,main.humidity
+197,kristiansund,63.12,7.73,284.15,5.1,27,main.humidity
+198,novi travnik,44.17,17.66,281.15,1.0,40,main.humidity
+199,fairbanks,64.84,-147.72,300.15,2.14,40,main.humidity
+200,neman,32.58,-85.98,301.15,1.87,40,main.humidity
+201,linxia,35.6,103.21,290.239,2.12,100,main.humidity
+202,liverpool,53.41,-2.98,289.82,1.0,75,main.humidity
+203,richards bay,-28.77,32.06,292.029,3.18,9,main.humidity
+204,vikhorevka,56.12,101.17,296.15,6.0,20,main.humidity
+205,ayagoz,47.96,80.43,292.059,9.19,0,main.humidity
+206,waipawa,-39.94,176.59,285.93,3.58,19,main.humidity
+207,winslow,51.94,-0.88,290.37,4.1,100,main.humidity
+208,bibiani,6.45,-2.31,293.499,0.91,75,main.humidity
+209,laviana,43.23,-5.53,290.37,1.5,20,main.humidity
+210,boa vista,2.82,-60.67,299.15,2.1,75,main.humidity
+211,adrar,27.87,-0.29,309.15,5.1,0,main.humidity
+212,polgar,-38.82,-68.06,279.15,1.5,0,main.humidity
+213,salalah,17.01,54.1,300.15,2.6,90,main.humidity
+214,brae,60.4,-1.35,285.15,6.2,100,main.humidity
+215,southbridge,42.08,-72.03,297.15,1.5,40,main.humidity
+216,maragogi,-9.01,-35.22,294.229,0.9,0,main.humidity
+217,brigantine,39.41,-74.36,297.59,2.6,1,main.humidity
+218,puerto ayacucho,5.66,-67.63,298.15,1.77,75,main.humidity
+219,abha,18.22,42.5,293.15,2.9,5,main.humidity
+220,nagpur,21.15,79.08,300.15,3.1,75,main.humidity
+221,roma,41.89,12.48,294.26,2.6,0,main.humidity
+222,vardo,39.62,-77.74,299.82,2.66,40,main.humidity
+223,zabol,31.03,61.49,305.15,15.9,0,main.humidity
+224,mikhaylovsk,56.44,59.12,289.889,3.17,97,main.humidity
+225,cabo san lucas,22.89,-109.91,303.71,4.1,5,main.humidity
+226,vila,45.18,8.4,295.93,0.5,0,main.humidity
+227,guerrero negro,27.97,-114.04,292.449,9.01,0,main.humidity
+228,leningradskiy,69.38,178.42,280.599,2.65,4,main.humidity
+229,cadillac,44.25,-85.4,300.15,3.6,75,main.humidity
+230,yangambi,0.77,24.47,293.499,0.83,100,main.humidity
+231,bambous virieux,-20.34,57.76,293.71,2.6,75,main.humidity
+232,lichinga,-13.3,35.25,286.009,1.77,48,main.humidity
+233,tuatapere,-46.13,167.69,284.82,1.34,7,main.humidity
+234,nador,35.17,-2.93,295.15,1.0,40,main.humidity
+235,jacala,21.0,-99.19,290.349,0.95,0,main.humidity
+236,calvinia,-31.47,19.78,286.989,4.41,0,main.humidity
+237,businga,3.34,20.89,292.709,1.23,100,main.humidity
+238,oksfjord,70.24,22.35,285.15,2.1,57,main.humidity
+239,batemans bay,-35.71,150.18,290.37,6.71,0,main.humidity
+240,acari,-6.44,-36.64,297.239,6.35,99,main.humidity
+241,saint george,39.45,22.34,294.26,2.1,75,main.humidity
+242,moyale,3.52,39.05,292.889,5.07,100,main.humidity
+243,ulladulla,-35.36,150.48,288.15,9.8,0,main.humidity
+244,vra,57.35,9.95,279.82,4.95,0,main.humidity
+245,yar-sale,66.83,70.83,285.329,9.17,100,main.humidity
+246,narsaq,60.91,-46.05,281.15,1.5,88,main.humidity
+247,magadan,59.56,150.8,285.039,2.73,0,main.humidity
+248,rawson,-43.3,-65.11,284.179,5.32,99,main.humidity
+249,haines junction,60.75,-137.51,295.179,3.19,64,main.humidity
+250,petropavlovsk-kamchatskiy,53.05,158.65,293.15,5.0,40,main.humidity
+251,vestmanna,62.16,-7.17,284.15,1.0,100,main.humidity
+252,barda,56.93,55.59,288.099,4.65,0,main.humidity
+253,lata,30.78,78.62,282.319,2.28,91,main.humidity
+254,hauterive,49.18,-68.27,285.93,1.5,1,main.humidity
+255,norman wells,65.28,-126.83,294.15,1.0,75,main.humidity
+256,moree,-29.46,149.84,293.15,7.7,0,main.humidity
+257,college,64.86,-147.8,302.59,2.14,40,main.humidity
+258,raudeberg,61.99,5.14,285.37,2.1,3,main.humidity
+259,besikduzu,41.05,39.23,297.15,4.6,40,main.humidity
+260,codrington,-28.95,153.24,295.15,8.2,0,main.humidity
+261,honiara,-9.43,159.96,303.15,3.6,75,main.humidity
+262,mahanoro,-19.9,48.8,291.889,0.49,86,main.humidity
+263,hamilton,43.26,-79.87,297.59,2.6,90,main.humidity
+264,mount gambier,-37.83,140.78,285.15,11.3,75,main.humidity
+265,bozhou,33.86,115.78,304.619,2.09,2,main.humidity
+266,esperance,-33.86,121.89,285.15,6.7,90,main.humidity
+267,morondava,-20.3,44.28,294.239,8.67,0,main.humidity
+268,lagoa,37.14,-8.45,298.15,4.1,0,main.humidity
+269,isangel,-19.55,169.27,299.15,7.2,75,main.humidity
+270,sao filipe,14.9,-24.5,295.669,7.13,35,main.humidity
+271,atbasar,51.81,68.36,294.049,5.46,9,main.humidity
+272,lukovetskiy,64.29,41.92,279.15,4.0,90,main.humidity
+273,marsa matruh,31.35,27.25,298.15,3.1,40,main.humidity
+274,cedar city,37.68,-113.06,303.15,3.6,1,main.humidity
+275,itaituba,-4.26,-55.99,295.299,0.53,0,main.humidity
+276,udachnyy,66.42,112.4,299.15,4.0,0,main.humidity
+277,mwinilunga,-11.73,24.43,285.329,3.02,0,main.humidity
+278,beian,63.66,9.57,283.71,5.52,75,main.humidity
+279,faya,18.39,42.45,293.15,0.93,5,main.humidity
+280,kaeo,-35.1,173.78,292.04,2.2,0,main.humidity
+281,killybegs,54.63,-8.45,285.93,1.34,90,main.humidity
+282,tondano,1.3,124.91,305.15,1.0,20,main.humidity
+283,banepa,27.63,85.52,295.15,5.7,75,main.humidity
+284,san cristobal,14.68,-86.92,293.339,2.81,88,main.humidity
+285,bonavista,48.65,-53.11,280.93,2.35,5,main.humidity
+286,avera,33.19,-82.53,300.15,1.5,1,main.humidity
+287,mahebourg,-20.41,57.7,293.71,2.6,75,main.humidity
+288,inuvik,68.36,-133.71,281.15,6.2,90,main.humidity
+289,grindavik,63.84,-22.43,285.37,1.5,90,main.humidity
+290,arlit,18.74,7.39,306.409,3.72,1,main.humidity
+291,geraldton,49.72,-86.95,287.15,5.7,90,main.humidity
+292,botro,7.85,-5.31,293.829,1.8,32,main.humidity
+293,gamboula,4.12,15.14,292.359,1.05,100,main.humidity
+294,zyryanka,65.73,150.89,301.359,2.74,0,main.humidity
+295,tubuala,9.52,-79.03,298.15,4.1,40,main.humidity
+296,dunedin,-45.87,170.5,287.59,2.68,0,main.humidity
+297,alekseyevka,53.25,50.49,288.15,4.0,0,main.humidity
+298,namie,37.52,140.86,295.37,2.1,75,main.humidity
+299,ravar,31.27,56.81,300.799,0.28,4,main.humidity
+300,henties bay,-22.12,14.28,285.37,1.79,0,main.humidity
+301,hede,60.45,15.49,287.59,2.6,100,main.humidity
+302,mitchell,43.71,-98.03,294.15,2.1,1,main.humidity
+303,pangody,65.85,74.49,284.709,9.66,100,main.humidity
+304,zambrow,52.99,22.24,287.04,2.91,74,main.humidity
+305,san quintin,17.54,120.52,303.499,3.09,0,main.humidity
+306,hambantota,6.12,81.12,301.15,4.6,40,main.humidity
+307,bandarbeyla,9.49,50.81,299.319,12.21,0,main.humidity
+308,antalaha,-14.9,50.28,289.789,1.12,30,main.humidity
+309,beatrice,40.27,-96.75,297.15,2.37,1,main.humidity
+310,praia,-20.25,-43.81,287.15,2.1,0,main.humidity
+311,beyneu,45.32,55.19,299.479,3.0,0,main.humidity
+312,donskoy,47.12,39.32,288.15,3.0,0,main.humidity
+313,nadapuram,11.7,75.65,296.15,2.6,75,main.humidity
+314,inhambane,-23.87,35.38,286.799,1.58,0,main.humidity
+315,road town,18.42,-64.62,301.15,3.6,40,main.humidity
+316,sargodha,32.09,72.68,311.789,2.91,0,main.humidity
+317,rio gallegos,-51.62,-69.22,277.539,3.8,100,main.humidity
+318,dakar,14.69,-17.45,297.15,3.6,0,main.humidity
+319,ust-ishim,57.69,71.17,293.099,4.87,91,main.humidity
+320,barentu,15.11,37.59,294.509,5.67,81,main.humidity
+321,tiksi,71.64,128.87,286.199,2.09,100,main.humidity
+322,kirovskiy,45.09,133.51,297.159,1.23,94,main.humidity
+323,baker city,44.77,-117.83,300.15,5.1,1,main.humidity
+324,ayan,38.23,44.7,286.579,2.12,0,main.humidity
+325,poum,41.28,20.71,284.15,3.1,20,main.humidity
+326,venado tuerto,-33.75,-61.97,281.48,1.88,100,main.humidity
+327,ishigaki,24.34,124.16,305.15,9.8,75,main.humidity
+328,san ignacio,-5.15,-79.0,287.059,0.84,0,main.humidity
+329,cayenne,4.94,-52.33,297.15,1.4,69,main.humidity
+330,deputatskiy,69.3,139.9,296.009,4.42,99,main.humidity
+331,velika obarska,44.8,19.17,282.04,0.5,0,main.humidity
+332,nicoya,10.15,-85.45,299.15,2.1,0,main.humidity
+333,valley city,46.92,-98.0,294.15,2.63,20,main.humidity
+334,forio,40.73,13.86,296.48,1.0,5,main.humidity
+335,george town,5.42,100.33,303.15,4.6,75,main.humidity
+336,urzhum,57.11,50.0,285.679,4.84,32,main.humidity
+337,porto novo,-23.68,-45.44,284.15,0.5,20,main.humidity
+338,husavik,50.56,-96.99,292.59,2.62,35,main.humidity
+339,seoul,37.57,126.98,298.15,1.0,90,main.humidity
+340,muscat,23.6,58.55,304.15,2.1,20,main.humidity
+341,chidambaram,11.4,79.69,300.15,1.5,75,main.humidity
+342,pottstown,40.25,-75.65,298.71,1.5,1,main.humidity
+343,umea,63.83,20.26,283.15,4.1,0,main.humidity
+344,tucurui,-3.77,-49.67,296.389,0.94,5,main.humidity
+345,belmonte,40.36,-7.35,295.37,0.96,0,main.humidity
+346,reconquista,-29.14,-59.64,290.639,2.16,16,main.humidity
+347,santa isabel,32.63,-115.58,312.15,8.7,1,main.humidity
+348,presidencia roque saenz pena,-26.79,-60.44,292.679,2.74,99,main.humidity
+349,svetlogorsk,53.14,59.15,292.15,2.0,40,main.humidity
+350,hammerfest,70.66,23.68,282.15,2.6,40,main.humidity
+351,parrita,9.52,-84.33,295.37,1.0,0,main.humidity
+352,ordubad,38.91,46.02,295.15,2.1,0,main.humidity
+353,tabuk,17.41,121.44,301.659,1.54,7,main.humidity
+354,sabha,27.03,14.43,302.079,3.71,0,main.humidity
+355,sturgeon bay,44.83,-87.38,296.48,4.6,1,main.humidity
+356,albina,5.5,-54.06,295.579,0.89,73,main.humidity
+357,mount isa,-20.73,139.49,299.15,5.7,23,main.humidity
+358,laela,-8.57,32.05,284.909,2.04,0,main.humidity
+359,coahuayana,18.62,-100.35,294.809,0.83,100,main.humidity
+360,san luis,-33.3,-66.34,285.429,4.91,100,main.humidity
+361,tabas,33.6,56.92,305.15,2.1,81,main.humidity
+362,touros,-5.2,-35.46,296.15,1.5,75,main.humidity
+363,aasiaat,68.71,-52.87,277.089,3.33,56,main.humidity
+364,nouadhibou,20.93,-17.03,293.15,8.7,2,main.humidity
+365,belen,34.66,-106.78,304.82,5.1,1,main.humidity
+366,grand gaube,-20.01,57.66,293.71,2.6,75,main.humidity
+367,nong chik,6.84,101.18,300.429,2.63,100,main.humidity
+368,sipe sipe,-17.45,-66.36,283.15,4.2,0,main.humidity
+369,salamiyah,35.01,37.05,296.639,4.04,0,main.humidity
+370,homa bay,-0.53,34.45,291.15,2.1,20,main.humidity
+371,nimaparha,20.07,86.02,301.15,6.7,75,main.humidity
+372,leshukonskoye,64.9,45.76,278.619,4.04,100,main.humidity
+373,yeppoon,-23.13,150.74,298.15,3.6,75,main.humidity
+374,fomboni,-12.28,43.74,297.369,9.4,77,main.humidity
+375,chokurdakh,70.62,147.9,298.529,3.39,37,main.humidity
+376,mayumba,-3.44,10.65,295.399,1.61,0,main.humidity
+377,kaspiyskiy,45.39,47.37,299.169,1.74,56,main.humidity
+378,thompson,55.74,-97.86,290.15,1.0,75,main.humidity
+379,tete,-16.16,33.59,285.15,1.5,20,main.humidity
+380,alice springs,-23.7,133.88,292.15,3.1,0,main.humidity
+381,wasilla,61.58,-149.44,292.59,1.5,40,main.humidity
+382,kandhla,29.32,77.27,309.519,7.3,10,main.humidity
+383,vredefort,-27.0,27.37,276.639,1.08,0,main.humidity
+384,la ronge,55.1,-105.3,286.15,3.1,90,main.humidity
+385,gushikawa,26.35,127.87,305.15,6.2,75,main.humidity
+386,saint-augustin,45.63,-73.98,298.15,1.0,40,main.humidity
+387,haverfordwest,51.8,-4.97,290.37,2.1,95,main.humidity
+388,lisa,42.25,43.76,287.369,1.94,70,main.humidity
+389,coihaique,-45.58,-72.07,276.15,1.0,95,main.humidity
+390,buarcos,40.16,-8.88,292.59,0.5,0,main.humidity
+391,arandis,-22.42,14.98,285.37,1.79,0,main.humidity
+392,praia da vitoria,38.73,-27.07,292.59,2.74,0,main.humidity
+393,ouegoa,-20.34,164.44,294.729,4.01,27,main.humidity
+394,varhaug,58.61,5.65,284.26,1.5,90,main.humidity
+395,tahe,52.34,124.71,301.279,3.15,4,main.humidity
+396,saint-paul,45.22,1.9,289.82,1.0,0,main.humidity
+397,qasigiannguit,68.82,-51.19,278.15,1.5,0,main.humidity
+398,castro-urdiales,43.38,-3.22,292.59,1.5,0,main.humidity
+399,kavaratti,10.57,72.64,301.959,6.02,100,main.humidity
+400,lazaro cardenas,28.39,-105.62,301.48,4.1,75,main.humidity
+401,narkevychi,49.52,26.64,282.139,4.01,95,main.humidity
+402,igarka,67.47,86.57,287.569,5.7,0,main.humidity
+403,upington,-28.46,21.24,280.15,1.5,0,main.humidity
+404,eten,-6.91,-79.86,291.15,5.1,0,main.humidity
+405,priekule,56.45,21.6,282.15,2.22,100,main.humidity
+406,mitsamiouli,-11.38,43.28,298.15,7.2,20,main.humidity
+407,pangnirtung,66.15,-65.72,287.279,0.16,86,main.humidity
+408,badiraguato,25.36,-107.55,304.82,1.36,5,main.humidity
+409,prykolotne,50.16,37.35,284.859,1.55,0,main.humidity
+410,yaring,6.87,101.37,298.15,2.1,75,main.humidity
+411,khasan,42.43,130.64,289.579,2.87,100,main.humidity
+412,the valley,18.22,-63.06,301.15,5.1,20,main.humidity
+413,moron,18.56,-74.26,300.669,1.43,98,main.humidity
+414,matara,-3.48,29.48,282.719,0.78,0,main.humidity
+415,gornopravdinsk,60.06,69.92,290.639,4.51,90,main.humidity
+416,narasannapeta,18.42,84.04,301.829,1.81,100,main.humidity
+417,tura,64.27,100.22,288.519,3.16,100,main.humidity
+418,baykit,61.68,96.39,288.089,5.41,28,main.humidity
+419,rocha,-34.48,-54.34,283.049,1.46,30,main.humidity
+420,bilma,18.69,12.92,304.679,4.29,1,main.humidity
+421,cooma,-36.24,149.13,281.15,6.7,40,main.humidity
+422,mayo,63.59,-135.9,297.15,3.1,90,main.humidity
+423,deniliquin,-35.53,144.96,285.37,6.71,64,main.humidity
+424,norsup,-16.07,167.38,301.15,4.1,75,main.humidity
+425,sorland,67.67,12.69,283.299,8.27,0,main.humidity
+426,vanavara,60.35,102.28,295.209,4.15,100,main.humidity
+427,harper,30.3,-99.24,300.37,5.74,1,main.humidity
+428,mansa,23.43,72.66,302.15,4.6,20,main.humidity
+429,longkou,37.64,120.47,298.339,1.47,87,main.humidity
+430,saskatoon,52.13,-106.66,297.59,7.2,75,main.humidity
+431,murdochville,48.96,-65.49,280.369,0.76,0,main.humidity
+432,verkhniy mamon,50.17,40.4,286.429,1.86,16,main.humidity
+433,pokrovsk,61.48,129.14,300.359,1.9,64,main.humidity
+434,morro bay,35.37,-120.85,298.71,5.7,1,main.humidity
+435,hami,42.84,93.51,305.589,3.18,55,main.humidity
+436,masaguisi,12.75,121.45,302.619,2.01,38,main.humidity
+437,muroto,33.37,134.14,297.15,3.1,75,main.humidity
+438,keetmanshoop,-26.57,18.15,286.15,4.6,0,main.humidity
+439,nioro,13.79,-15.05,299.179,5.4,93,main.humidity
+440,vermillion,42.78,-96.93,296.48,3.1,1,main.humidity
+441,hukuntsi,-23.98,21.76,284.009,2.9,0,main.humidity
+442,paraiso,-0.03,-51.17,298.15,1.0,40,main.humidity
+443,kota kinabalu,5.98,116.07,305.15,2.1,75,main.humidity
+444,saurimo,-9.66,20.4,288.909,2.95,0,main.humidity
+445,hualmay,-11.1,-77.61,289.979,6.0,0,main.humidity
+446,lillesand,58.25,8.38,284.82,0.59,6,main.humidity
+447,teseney,15.11,36.66,299.459,6.19,98,main.humidity
+448,atambua,-9.11,124.89,298.329,4.74,71,main.humidity
+449,adre,13.47,22.2,297.829,7.68,100,main.humidity
+450,el asintal,14.6,-91.73,288.15,1.6,76,main.humidity
+451,arteaga,25.45,-100.85,304.82,4.1,40,main.humidity
+452,tome,38.69,141.2,293.15,5.1,75,main.humidity
+453,kichera,55.93,110.1,297.869,1.64,0,main.humidity
+454,pacific grove,36.62,-121.92,297.15,5.1,1,main.humidity
+455,muisne,0.61,-80.02,297.409,4.49,86,main.humidity
+456,ishinomaki,38.42,141.3,293.15,5.1,75,main.humidity
+457,luanda,-8.83,13.24,293.15,3.1,23,main.humidity
+458,alekseyevskaya,45.77,40.15,290.989,1.65,94,main.humidity
+459,sharjah,25.36,55.39,306.15,2.1,0,main.humidity
+460,fort saint james,54.43,-124.25,287.789,1.35,100,main.humidity
+461,ohara,35.12,135.83,298.15,6.2,75,main.humidity
+462,shanghai,31.23,121.49,302.59,2.0,75,main.humidity
+463,tual,-5.67,132.75,298.329,8.69,3,main.humidity
+464,danshui,22.81,114.46,303.15,3.0,0,main.humidity
+465,iguape,-24.7,-47.56,287.539,1.15,100,main.humidity
+466,piraju,-23.19,-49.38,287.509,1.1,99,main.humidity
+467,binga,-17.62,27.34,283.699,0.74,0,main.humidity
+468,okhotsk,59.36,143.24,291.439,2.45,90,main.humidity
+469,itarema,-2.92,-39.92,295.869,1.99,9,main.humidity
+470,tabou,4.42,-7.36,296.029,1.33,99,main.humidity
+471,calama,-22.46,-68.93,283.15,5.1,0,main.humidity
+472,shimoda,34.7,138.93,296.15,4.6,75,main.humidity
+473,kruisfontein,-34.0,24.73,285.749,3.43,0,main.humidity
+474,edd,13.93,41.69,305.529,4.35,37,main.humidity
+475,neuquen,-38.95,-68.06,279.15,1.5,0,main.humidity
+476,daru,-9.07,143.21,300.119,4.61,2,main.humidity
+477,leh,34.16,77.58,278.679,1.29,91,main.humidity
+478,nemuro,43.32,145.57,287.15,4.6,75,main.humidity
+479,roxana,10.27,-83.75,295.37,1.0,0,main.humidity
+480,cap malheureux,-19.98,57.61,293.71,2.6,75,main.humidity
+481,kemerovo,55.36,86.09,291.15,4.0,20,main.humidity
+482,mogadishu,2.04,45.34,297.429,5.06,47,main.humidity
+483,kiama,-34.67,150.86,289.26,9.8,0,main.humidity
+484,rabaul,-4.2,152.17,302.169,5.23,100,main.humidity
+485,bo phloi,14.32,99.52,303.049,2.62,100,main.humidity
+486,takoradi,4.89,-1.75,295.249,1.88,57,main.humidity
+487,ziro,27.54,93.82,289.679,0.65,100,main.humidity
+488,genhe,50.78,121.52,298.239,2.76,53,main.humidity
+489,tessalit,20.2,1.01,304.239,3.49,29,main.humidity
+490,cururupu,-1.82,-44.87,294.959,0.58,30,main.humidity
+491,gidole,5.65,37.37,296.069,1.24,100,main.humidity
+492,general pico,-35.66,-63.75,282.149,1.86,100,main.humidity
+493,tilichiki,60.47,166.1,291.029,4.86,55,main.humidity
+494,ikalamavony,-21.17,46.6,285.819,2.07,0,main.humidity
+495,dabakala,8.36,-4.43,293.619,1.8,0,main.humidity
+496,carballo,43.21,-8.69,290.93,2.1,90,main.humidity
+497,astorga,-23.24,-51.66,292.15,4.1,0,main.humidity
+498,kaka,37.35,59.62,304.319,10.95,0,main.humidity
+499,tres arroyos,-38.38,-60.28,281.839,1.65,100,main.humidity
+500,naze,5.43,7.07,294.849,1.37,81,main.humidity
+501,necochea,-38.55,-58.74,277.59,0.89,67,main.humidity
+502,abu samrah,35.3,37.18,297.299,3.92,0,main.humidity
+503,tarija,-21.53,-64.73,287.15,1.67,0,main.humidity
+504,kathu,-27.7,23.05,276.48,2.38,0,main.humidity
+505,bakel,14.9,-12.46,303.429,8.13,90,main.humidity
+506,kamaishi,39.28,141.86,292.15,4.6,75,main.humidity
+507,sungaipenuh,-2.08,101.38,302.919,1.45,16,main.humidity
+508,sorong,-0.86,131.25,298.969,3.1,100,main.humidity
+509,abaza,52.65,90.1,291.029,2.86,100,main.humidity
+510,dolinsk,47.32,142.8,287.15,3.0,75,main.humidity
+511,beidao,34.57,105.89,293.209,3.01,100,main.humidity
+512,shabqadar,34.21,71.56,304.119,1.9,0,main.humidity
+513,nuristan,38.49,65.64,299.15,2.1,0,main.humidity
+514,terracina,41.29,13.25,294.26,1.34,0,main.humidity
+515,bayshore gardens,27.43,-82.59,301.48,3.6,1,main.humidity
+516,khon kaen,16.43,102.84,304.15,3.6,0,main.humidity
+517,gewane,10.16,40.66,300.069,2.32,83,main.humidity
+518,cuamba,-14.8,36.54,284.599,2.06,2,main.humidity
+519,namatanai,-3.66,152.44,299.539,8.12,100,main.humidity
+520,shakawe,-18.36,21.84,283.439,2.04,0,main.humidity
+521,siavonga,-16.54,28.71,287.209,3.48,0,main.humidity
+522,banyo,6.75,11.81,290.099,1.35,100,main.humidity
+523,xifeng,42.73,124.72,297.829,3.46,100,main.humidity
+524,walvis bay,-22.95,14.51,290.15,2.6,90,main.humidity
+525,krizevci,46.02,16.54,286.48,2.6,0,main.humidity
+526,lampazos de naranjo,27.02,-100.51,305.439,4.59,0,main.humidity
+527,bereda,43.27,-7.54,289.26,2.1,90,main.humidity
+528,shitanjing,39.23,106.34,301.369,4.56,1,main.humidity
+529,thongwa,16.76,96.52,301.15,4.1,90,main.humidity
+530,kaseda,31.42,130.32,300.93,4.1,75,main.humidity
+531,yeghegnavan,39.84,44.63,297.15,2.1,0,main.humidity
+532,sabya,17.15,42.62,306.15,1.5,31,main.humidity
+533,morant bay,17.88,-76.41,302.15,7.2,20,main.humidity
+534,warrnambool,-38.38,142.48,284.82,5.81,100,main.humidity
+535,ulaanbaatar,47.92,106.92,299.15,3.0,20,main.humidity
+536,tchaourou,8.89,2.6,294.489,1.28,79,main.humidity
+537,ucluelet,48.94,-125.55,289.26,2.55,28,main.humidity
+538,nangomba,-10.9,38.52,290.479,2.14,30,main.humidity
+539,kjollefjord,70.95,27.35,281.15,0.5,0,main.humidity
+540,chaman,30.92,66.46,302.159,6.52,0,main.humidity
+541,tasco,5.91,-72.78,279.709,2.02,11,main.humidity
+542,san jose,14.25,-87.96,291.409,0.22,70,main.humidity
+543,kargasok,59.06,80.87,289.709,2.37,100,main.humidity
+544,dzaoudzi,-12.79,45.27,298.15,9.3,0,main.humidity
+545,agadir,30.42,-9.58,293.15,2.1,75,main.humidity
+546,nosy varika,-20.58,48.53,291.499,1.37,7,main.humidity
+547,manggar,-2.88,108.27,300.899,3.49,89,main.humidity
+548,atar,20.52,-13.05,303.719,4.03,10,main.humidity
+549,nuuk,64.17,-51.74,278.15,3.1,93,main.humidity
+550,najran,17.54,44.22,301.15,2.1,0,main.humidity
+551,plouzane,48.38,-4.62,290.93,1.0,90,main.humidity
+552,hit,33.64,42.83,301.989,8.02,0,main.humidity
+553,praya,-8.71,116.27,301.15,5.1,40,main.humidity
+554,solnechnyy,50.72,136.64,301.719,1.87,97,main.humidity
+555,matata,-37.89,176.76,290.93,2.24,13,main.humidity
+556,moa,20.66,-74.95,295.919,0.97,100,main.humidity
+557,aswan,24.09,32.9,303.15,2.6,0,main.humidity
+558,garowe,8.41,48.48,297.429,11.49,19,main.humidity
+559,mongu,-15.27,23.14,281.549,1.81,0,main.humidity
+560,chunhuhub,19.59,-88.59,296.629,1.26,100,main.humidity
+561,bantou,26.22,117.49,301.699,1.61,84,main.humidity
+562,preobrazheniye,42.9,133.91,296.509,2.49,98,main.humidity
+563,kurilsk,45.23,147.88,282.479,0.36,44,main.humidity
+564,lavrentiya,65.58,-170.99,296.909,3.24,1,main.humidity
+565,paamiut,61.99,-49.67,279.619,2.66,100,main.humidity
+566,tiverton,50.9,-3.49,289.26,2.6,98,main.humidity
+567,facaeni,44.57,27.9,286.15,3.1,0,main.humidity
+568,brooks,50.57,-111.89,295.93,4.02,99,main.humidity
+569,sabancuy,18.97,-91.18,302.269,4.57,67,main.humidity
+570,ludvika,60.15,15.18,287.59,2.1,100,main.humidity
+571,oranjemund,-28.55,16.43,289.559,4.23,20,main.humidity
+572,sunrise manor,36.21,-115.07,312.15,4.1,1,main.humidity
+573,port moresby,-9.47,147.16,304.15,7.7,40,main.humidity
+574,bar harbor,44.39,-68.2,291.15,0.86,1,main.humidity
+575,prince rupert,54.32,-130.32,291.15,1.0,90,main.humidity
+576,muros,42.77,-9.06,294.26,0.5,0,main.humidity
+577,sainte-marie,46.45,-71.03,292.59,3.1,40,main.humidity
+578,manono,-7.3,27.4,295.649,1.02,79,main.humidity
+579,axim,4.87,-2.24,296.839,3.82,55,main.humidity
+580,talnakh,69.49,88.39,284.15,5.0,0,main.humidity
+581,manaure,11.78,-72.45,299.409,9.08,77,main.humidity
+582,japura,-0.42,102.29,302.399,2.14,8,main.humidity
+583,pringsewu,-5.36,104.98,301.109,2.1,0,main.humidity
+584,biskamzha,53.45,89.53,292.809,0.33,100,main.humidity
+585,cotonou,6.37,2.43,299.15,5.7,40,main.humidity
+586,sterling,39.0,-77.4,299.26,2.6,20,main.humidity
+587,rundu,-17.91,19.77,282.15,2.37,0,main.humidity
+588,meulaboh,4.14,96.13,300.589,2.16,61,main.humidity
+589,beringovskiy,63.05,179.32,292.249,2.52,0,main.humidity
+590,hokitika,-42.72,170.96,285.099,2.29,98,main.humidity
+591,port-cartier,50.03,-66.88,285.15,2.6,20,main.humidity
+592,angoche,-16.23,39.91,292.179,2.82,2,main.humidity
+593,galesong,-5.32,119.37,303.15,1.5,20,main.humidity
+594,kijang,35.24,129.21,300.15,4.1,75,main.humidity
+595,kokuy,52.2,117.55,303.349,0.57,52,main.humidity
+596,auki,12.18,6.51,296.369,5.51,43,main.humidity
+597,gravdal,59.79,5.78,284.82,1.5,90,main.humidity
+598,nambucca heads,-30.64,152.99,297.04,5.7,0,main.humidity
+599,melendugno,40.27,18.34,296.15,2.6,40,main.humidity
+600,nunspeet,52.38,5.78,289.82,1.5,90,main.humidity
+601,watrous,51.67,-105.46,292.199,5.63,93,main.humidity
+602,kupang,-10.16,123.6,301.15,3.1,20,main.humidity
+603,maldonado,-34.91,-54.96,283.15,2.1,0,main.humidity
+604,inirida,3.87,-67.92,294.739,1.02,7,main.humidity
+605,devarkonda,16.69,78.91,298.989,7.75,100,main.humidity
+606,bourg-en-bresse,46.21,5.22,289.26,1.5,0,main.humidity
+607,akersberga,59.48,18.3,287.15,1.5,83,main.humidity
+608,jasper,33.83,-87.28,301.15,1.2,1,main.humidity
+609,buala,-8.15,159.59,301.869,2.73,100,main.humidity
+610,yubo,34.85,105.55,294.179,2.99,100,main.humidity
+611,chumikan,54.72,135.31,287.389,3.14,68,main.humidity
+612,kirkwood,-33.4,25.44,283.15,2.6,0,main.humidity
+613,xining,36.62,101.77,281.179,0.89,100,main.humidity
+614,vila do maio,15.13,-23.22,296.15,3.6,20,main.humidity
+615,sayansk,54.11,102.18,294.969,3.94,65,main.humidity
+616,sao felix do xingu,-6.64,-51.99,294.369,1.0,0,main.humidity
+617,kapiri mposhi,-13.97,28.68,281.759,2.75,13,main.humidity
+618,ried,48.29,11.04,285.93,1.5,78,main.humidity
+619,tabursuq,36.46,9.25,295.15,1.0,0,main.humidity
+620,amahai,-3.31,129.0,298.499,6.95,100,main.humidity
+621,chivay,-15.64,-71.6,275.779,0.75,4,main.humidity
+622,novonikolayevskiy,50.97,42.37,285.37,0.45,71,main.humidity
+623,bila tserkva,49.8,30.11,283.039,4.15,45,main.humidity
+624,ustka,54.58,16.86,286.789,1.95,0,main.humidity
+625,arona,45.76,8.56,295.37,0.5,0,main.humidity
+626,biloela,-24.4,150.51,295.319,3.81,0,main.humidity
+627,manakara,-22.14,48.01,289.909,1.25,2,main.humidity
+628,vostok,46.45,135.83,297.799,1.8,100,main.humidity
+629,ca mau,9.18,105.15,305.849,3.45,0,main.humidity
+630,boende,-0.28,20.88,293.999,1.35,93,main.humidity
+631,karlskoga,59.33,14.52,288.15,3.1,17,main.humidity
+632,kamenka,48.03,28.7,284.26,0.45,4,main.humidity
+633,mutis,6.23,-77.4,300.289,2.5,100,main.humidity
+634,zhigansk,66.77,123.37,301.049,3.23,100,main.humidity
+635,lucea,18.44,-78.17,301.15,2.1,20,main.humidity
+636,san policarpo,12.18,125.51,302.429,2.04,37,main.humidity
+637,broome,52.47,1.45,290.93,1.5,100,main.humidity
+638,fort nelson,58.81,-122.69,295.15,1.0,40,main.humidity
+639,sri aman,1.24,111.46,304.15,0.5,75,main.humidity
+640,mapiripan,2.89,-72.13,295.189,1.08,76,main.humidity
+641,xiaoweizhai,26.23,107.51,291.259,1.61,100,main.humidity
+642,sergeyevka,53.88,67.42,293.769,5.95,98,main.humidity
+643,todos santos,23.45,-110.23,303.71,3.6,5,main.humidity
+644,port blair,11.67,92.75,302.15,4.1,75,main.humidity
+645,zhanaozen,43.35,52.85,299.239,6.12,0,main.humidity
+646,alamogordo,32.9,-105.96,307.15,5.7,1,main.humidity
+647,kampot,10.62,104.18,304.15,2.6,40,main.humidity
+648,okha,53.59,142.95,289.119,3.47,55,main.humidity
+649,komsomolskiy,67.55,63.78,285.109,6.69,100,main.humidity
+650,twin falls,42.57,-114.46,299.15,2.1,1,main.humidity
+651,la rioja,-29.41,-66.86,280.889,0.85,68,main.humidity
+652,mariinskiy posad,56.12,47.72,286.15,6.0,20,main.humidity
+653,sobolevo,54.43,31.9,283.209,2.03,18,main.humidity
+654,lipari,38.47,14.95,299.26,3.6,40,main.humidity
+655,flin flon,54.77,-101.88,290.699,2.28,99,main.humidity
+656,mwanza,-2.52,32.9,294.129,4.89,52,main.humidity
+657,zhangye,38.94,100.46,295.949,5.04,100,main.humidity
+658,champerico,16.38,-93.6,297.15,1.5,75,main.humidity
+659,mangrol,25.33,76.51,303.539,7.99,2,main.humidity
+660,kapan,39.21,46.4,285.059,1.35,3,main.humidity
+661,akdepe,42.05,59.39,299.15,5.1,0,main.humidity
+662,kiruna,67.86,20.23,284.15,2.1,100,main.humidity
+663,hegang,47.34,130.28,297.479,3.09,100,main.humidity
+664,iralaya,15.0,-83.23,297.709,1.22,29,main.humidity
+665,simpang empat,6.02,100.38,302.15,1.0,75,main.humidity
+666,tomatlan,19.93,-105.25,299.599,1.77,1,main.humidity
+667,el campo,29.2,-96.27,304.15,2.1,1,main.humidity
+668,san angelo,31.46,-100.44,300.93,3.1,1,main.humidity
+669,machilipatnam,16.18,81.14,300.15,6.79,40,main.humidity
+670,natal,-5.81,-35.21,296.15,2.6,40,main.humidity
+671,bonthe,7.53,-12.5,297.429,3.66,100,main.humidity
+672,mayor pablo lagerenza,-19.93,-60.77,294.189,2.41,0,main.humidity
+673,sarakhs,36.54,61.16,301.15,3.1,0,main.humidity
+674,ust-uda,54.17,103.03,299.309,3.44,0,main.humidity
