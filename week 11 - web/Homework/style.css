@@ -1,0 +1,59 @@
+:root{
+    --main-highlight-color: #80ced6;
+    --main-highlight-light: rgb(201, 230, 253);
+    --foreground-color: white;
+}
+
+nav {
+    background-color: var(--foreground-color);
+}
+
+@media (max-width: 767.98px) {
+    .navbar {
+        background-color: var(--main-highlight-color);
+    }
+    .navbar-brand div {
+        color: white;
+    }
+}
+
+.h {
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    color: var(--main-highlight-color);
+    
+}
+
+.img-paragraph {
+    float: left;
+    
+}
+
+.img-compare {
+    text-align: center;
+}
+
+.img-nav-panel {
+    width: 50%;
+    float: left;
+    margin-bottom: 6pt;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgba(0,0,0,0);
+}
+
+.img-nav-active {
+    border-color: var(--main-highlight-color);
+}
+
+.content-box {
+    background-color: var(--foreground-color);
+    margin: 30pt 5pt 10pt 5pt;
+    padding: 15pt;
+    overflow: auto;
+    /* height: max-content; */
+}
+
+body {
+    background-color: #eee;
+}
+

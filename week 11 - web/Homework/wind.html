@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Wind Speed</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-md navbar-light">
+        <div class="container">
+        <a class="navbar-brand" href="index.html"><div class="h" style="font-size:17pt">Latitude</div></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Plots
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="temperature.html">Temperature</a>
+                    <a class="dropdown-item" href="clouds.html">Cloudiness</a>
+                    <!--<div class="dropdown-divider"></div>-->
+                    <a class="dropdown-item" href="wind.html">Wind Speed</a>
+                    <a class="dropdown-item" href="humidity.html">Humidity</a>
+                </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="comparison.html">Comparison</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="data.html">Data</a>
+            </li>
+          </ul>
+          
+        </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="content-box">
+                <h1 class="h">Wind Speed vs. Latitude</h1>
+                <hr>
+                <img class="img-paragraph" width="350" src="Resources/wind.png" alt="Graph of Wind Speed vs. Latitude">
+                <p>Wind appears to increase moderately as distance from the equator increases, with higher highs closer to the poles, and more concentrated lows near the equator.</p>
+                </div> 
+            </div>
+            <!-- Nav Panel -->
+            <div class="col-lg-4">
+                <div class="content-box">
+                <h2 class="h">Visualizations</h2>
+                <hr>
+                <a href="temperature.html">
+                    <img class="img-nav-panel" src="Resources/temperature.png">
+                </a>
+                <a href="clouds.html">
+                    <img class="img-nav-panel" src="Resources/clouds.png">
+                </a>
+                <a href="wind.html">
+                    <img class="img-nav-panel img-nav-active" src="Resources/wind.png">
+                </a>
+                <a href="humidity.html">
+                    <img class="img-nav-panel" src="Resources/humidity.png">
+                </a>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
